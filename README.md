@@ -1,1 +1,1 @@
-# sqlite
+# SQLite sample databases
